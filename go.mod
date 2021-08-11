@@ -56,3 +56,5 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
 replace github.com/coreos/bbolt => go.etcd.io/bbolt v1.3.4
 
 replace github.com/micro/go-micro => github.com/Lofanmi/go-micro v1.17.2-0.20210804064026-812d8d812aca
+
+replace github.com/micro/micro => github.com/Lofanmi/micro fix-quic-v1.17.1
